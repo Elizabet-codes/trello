@@ -314,6 +314,7 @@ textarea.textbox-edit:hover {
 	.create-board-wrapper button {
 		margin: 5px auto 10px auto;
 	} 
+
 	.board-preview-wrapper {
 		grid-template-columns: repeat(2, 1fr);
 		grid-gap: 20px;
